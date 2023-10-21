@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permissions Demo</string>
+    <string name="camera">Camera</string>
+    <string name="location">Location</string>
+</resources>
